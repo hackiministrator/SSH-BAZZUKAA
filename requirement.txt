@@ -1,0 +1,4 @@
+The requirement is simple installation of python pawn tools
+To install:
+1. On terminal
+2. Run this command: pip install pwntools
