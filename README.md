@@ -67,7 +67,8 @@ The tool will begin testing passwords from wordlist.txt.
 ## Output
 
 ### Successful Login
-[+] Password Found: password123
+[+] Valid Password Found Succesfully: 'password123.
+![cod](ress.png)
 
 ### Failed Login
 [-] No Valid Password Found
